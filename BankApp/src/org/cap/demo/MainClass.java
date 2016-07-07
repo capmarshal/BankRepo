@@ -7,7 +7,7 @@ public class MainClass {
 		Account account = new Account();
 		
 		account.deposit();
-		
+		greetings();
 	}
 	
 	public static void greetings(){
